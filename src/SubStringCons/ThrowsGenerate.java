@@ -16,5 +16,7 @@ public class ThrowsGenerate {
             e.myMethod();
             System.out.println("Выброс: " + e);
         }
+
     }
+    //jhhdgfjidhjlyt
 }
