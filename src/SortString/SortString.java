@@ -7,7 +7,7 @@ class SortString {
     static  String arr[] = {
             "Now", "is", "the", "time", "for", "all","good","men","to", "come", "to","the","aid","for","their","country"};
 
-    public static void main(String[] args) {
+   /*public static void main(String[] args) {
         for(int j =0, j < arr.length; j++){
             for(int i=j+1, i<arr.length;i++){
                 if(arr[i].compareTo(arr[j]<0)){
@@ -18,6 +18,6 @@ class SortString {
             }
             System.out.println(arr[j]);
         }
-    }
+    }*/
 
 }

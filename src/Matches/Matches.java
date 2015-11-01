@@ -5,10 +5,10 @@ package Matches;
  */
 public class Matches {
 
-    boolean StartsWith(){
+    /*boolean StartsWith(){
         System.out.println("Footbar");
     boolean endWith() {
         System.out.println("Footbar".endsWith("bar"));
 
-    }
+    }*/
 }
